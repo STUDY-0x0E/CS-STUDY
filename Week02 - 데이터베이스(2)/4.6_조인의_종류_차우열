@@ -8,7 +8,7 @@ MongoDB의 lookup은 관계형 데이터베이스보다 성능이 떨어진다.
 
 여러 테이블을 조인하는 작업이 많을 경우 관계형 데이터베이스를 써야 한다.
 
-![Untitled](6%20%E1%84%8C%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B4%20%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%85%E1%85%B2%207c472d2a07034ea281a99d7e0fb24d92/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/e19638c0-f41c-43b8-9d13-a8b0b6f80cad/258baafb-f58b-431d-9346-db8626ce7dcb/Untitled.png)
 
 ## 내부 조인(Inner Join)
 
