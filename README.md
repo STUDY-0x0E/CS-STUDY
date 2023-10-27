@@ -6,7 +6,7 @@ CS 스터디는 컴퓨터 과학 분야에 대한 심층적인 이해를 목표�
 
 ### :frog: 스터디 멤버
 
-| <img src="https://github.com/namhyemi.png" width="120" height="120"/> | <img src="https://github.com/parkyolo.png" width="120" height="120"> | <img src="https://github.com/dev-hamster.png" width="120" height="120"> | <img src="https://github.com/devjun20.png" width="120" height="120"> | <img src="https://github.com/insukL.png" width="120" height="120"> | <img src="https://github.com/dtdtdz.png" width="120" height="120"> |
+| <img src="https://github.com/namhyemi.png"> | <img src="https://github.com/parkyolo.png" > | <img src="https://github.com/dev-hamster.png"> | <img src="https://github.com/devjun20.png"> | <img src="https://github.com/insukL.png"> | <img src="https://github.com/dtdtdz.png"> |
 | :--------------------------------------------------------------------: | :------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------: |
 |[남혜미](https://github.com/namhyemi)|[박지영](https://github.com/parkyolo)|[박진아](https://github.com/dev-hamster)|[손준성](https://github.com/devjun20)|[이인석](https://github.com/insukL)|[차우열](https://github.com/dtdtdz)|
 
